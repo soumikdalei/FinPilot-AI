@@ -94,7 +94,7 @@ uvicorn main:app --reload
 <pre>
 cd frontend/my-react-app
 npm install
-npm start
+npm run dev
 </pre>
 
 <hr/>
