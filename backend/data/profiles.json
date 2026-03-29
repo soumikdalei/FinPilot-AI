@@ -1,0 +1,148 @@
+{
+  
+  "freelancer": {
+    "age": 26,
+    "monthly_income": 50000,
+    "monthly_expenses": 35000,
+
+    "emergency_fund": 15000,
+
+    "investments": {
+      "equity": 10000,
+      "mutual_funds": 10000,
+      "fixed_deposits": 0
+    },
+
+    "retirement_savings": 5000,
+    "retirement_goal": {
+      "target_age": 60,
+      "target_corpus": 20000000
+    },
+
+    "debt": {
+      "amount": 50000,
+      "interest_rate": 12,
+      "emi": 2000,
+      "type": "personal_loan"
+    },
+
+    "insurance": {
+      "health": true,
+      "life": false
+    },
+
+    "tax_saving_instruments": {
+      "80C": 0,
+      "80D": 0,
+      "NPS": 0
+    },
+
+    "goals": [
+      {
+        "name": "buy_house",
+        "amount": 3000000,
+        "timeline_years": 5
+      }
+    ]
+  }
+,
+  "high_income_professional": {
+    "age": 35,
+    "monthly_income": 200000,
+    "monthly_expenses": 120000,
+    "savings": 50000,
+    "investments": 500000,
+    "debt": 1000000,
+    "insurance": { "health": true, "life": true },
+    "tax_saving_instruments": true,
+    "retirement_savings": 200000
+  },
+  "low_income_worker": {
+    "age": 40,
+    "monthly_income": 15000,
+    "monthly_expenses": 14000,
+    "savings": 2000,
+    "investments": 0,
+    "debt": 10000,
+    "insurance": { "health": false, "life": false },
+    "tax_saving_instruments": false,
+    "retirement_savings": 0
+  },
+  "business_owner": {
+    "age": 45,
+    "monthly_income": 150000,
+    "monthly_expenses": 100000,
+    "savings": 70000,
+    "investments": 300000,
+    "debt": 200000,
+    "insurance": { "health": true, "life": true },
+    "tax_saving_instruments": true,
+    "retirement_savings": 150000
+  },
+  "newly_employed": {
+    "age": 23,
+    "monthly_income": 30000,
+    "monthly_expenses": 22000,
+    "savings": 8000,
+    "investments": 2000,
+    "debt": 0,
+    "insurance": { "health": false, "life": false },
+    "tax_saving_instruments": false,
+    "retirement_savings": 0
+  },
+  "married_with_kids": {
+    "age": 38,
+    "monthly_income": 100000,
+    "monthly_expenses": 85000,
+    "savings": 30000,
+    "investments": 150000,
+    "debt": 600000,
+    "insurance": { "health": true, "life": true },
+    "tax_saving_instruments": true,
+    "retirement_savings": 50000
+  },
+  "retired": {
+    "age": 65,
+    "monthly_income": 40000,
+    "monthly_expenses": 30000,
+    "savings": 200000,
+    "investments": 500000,
+    "debt": 0,
+    "insurance": { "health": true, "life": false },
+    "tax_saving_instruments": false,
+    "retirement_savings": 0
+  },
+  "debt_heavy_user": {
+    "age": 29,
+    "monthly_income": 60000,
+    "monthly_expenses": 55000,
+    "savings": 5000,
+    "investments": 10000,
+    "debt": 800000,
+    "insurance": { "health": true, "life": false },
+    "tax_saving_instruments": false,
+    "retirement_savings": 2000
+  },
+  "investor_focused": {
+    "age": 32,
+    "monthly_income": 120000,
+    "monthly_expenses": 70000,
+    "savings": 40000,
+    "investments": 800000,
+    "debt": 100000,
+    "insurance": { "health": true, "life": true },
+    "tax_saving_instruments": true,
+    "retirement_savings": 100000
+  },
+  "rural_household": {
+    "age": 42,
+    "monthly_income": 20000,
+    "monthly_expenses": 18000,
+    "savings": 5000,
+    "investments": 0,
+    "debt": 20000,
+    "insurance": { "health": false, "life": false },
+    "tax_saving_instruments": false,
+    "retirement_savings": 0
+  }
+}
