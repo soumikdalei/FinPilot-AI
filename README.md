@@ -29,7 +29,7 @@ The system focuses on financial health evaluation, risk-aware suggestions, and b
   <li>Python (FastAPI)</li>
   <li>Pydantic (Schema validation)</li>
   <li>LangChain + Google Generative AI</li>
-  <li>JSON data storage</li>
+  
 </ul>
 
 <h3>Frontend</h3>
