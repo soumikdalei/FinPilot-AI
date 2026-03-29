@@ -70,8 +70,7 @@ ET-HACKATHON-PROJECT/
 <h2>⚙️ Installation & Setup</h2>
 
 <h3>1. Clone the Repository</h3>
-<pre>git clone 
-https://github.com/soumikdalei/FinPilot-AI.git
+<pre>git clone https://github.com/soumikdalei/FinPilot-AI.git
 cd ai-money-mentor
 </pre>
 
