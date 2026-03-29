@@ -116,8 +116,15 @@ npm start
 
 <hr/>
 
+<h2>🔐 Safety Rules</h2>
+<ul>
+  <li>❌ No stock tips</li>
+  <li>❌ No guaranteed returns</li>
+  <li>❌ No complex jargon</li>
+  <li>✅ Only safe, practical advice</li>
+</ul>
 
-
+<hr/>
 
 <h2>🚧 Future Improvements</h2>
 <ul>
